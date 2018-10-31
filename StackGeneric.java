@@ -5,7 +5,7 @@ public class StackGeneric {
 	int top = -1;
 	
 	public void push(String string){
-		mahasiswa.add(null);
+		mahasiswa.add(string);
 		top = top+1;
 		
 	}
